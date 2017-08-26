@@ -1,3 +1,7 @@
+### Integrantes
+* Kevin García 13177
+* Pablo Danilo 13203
+
 # Data Engineer
 
 ## Determna objetivos y estrategias 
