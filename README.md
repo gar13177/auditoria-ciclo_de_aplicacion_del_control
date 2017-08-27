@@ -4,7 +4,7 @@
 
 # Data Engineer
 
-## Determna objetivos y estrategias 
+## Determina objetivos y estrategias 
 * Objetivos
     * Mantener actualizada la replica local de data del cliente
 * Estrategias
